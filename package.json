@@ -4,8 +4,16 @@
   "description": "Demo : https://www.home-delivery.arathi.co.uk/",
   "main": "index.js",
   "dependencies": {
-    "@aws-amplify/ui-react": "^0.2.6-unstable.22",
-    "aws-amplify": "^3.0.10",
+    "aws-amplify": "^2.2.6",
+    "aws-amplify-react": "^3.1.7",
+    "aws-appsync": "^3.0.2",
+    "glamor": "^2.20.40",
+    "graphql-tag": "^2.10.3",
+    "mobx": "^5.15.4",
+    "mobx-react": "^6.1.8",
+    "react-apollo": "^3.1.3",
+    "react-icons": "^3.9.0",
+    "react-scripts": "2.1.1"
     "body-parser": "^1.19.0",
     "dotenv": "^8.2.0",
     "eslint-plugin-react": "^7.19.0",
